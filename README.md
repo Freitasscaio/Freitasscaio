@@ -1,2 +1,2 @@
-# window.print("Welcome to my github!😄")
+window.print("Welcome to my github!😄")
 
