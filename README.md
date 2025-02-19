@@ -1,4 +1,4 @@
-`window.print("Welcome to my github!😄")`
+`alert("Welcome to my github!😄")`
 
 ***
 
