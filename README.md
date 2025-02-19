@@ -8,4 +8,4 @@
 
 ***
 
-[![My Skills](https://skillicons.dev/icons?i=js,linkedin,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,linkedin,postman,html,linux)](https://skillicons.dev)
